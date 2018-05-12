@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45379#Prairie-Dog-Town
 gutenberg_issued: '2014-04-14'
 gutenberg_type: Text
 identifiers:
